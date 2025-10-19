@@ -16,21 +16,6 @@ Each program is designed to strengthen my understanding of **core Java concepts*
 
 ---
 
-## 🗂️ Repository Structure
-
-Java-Practice/
-│
-├── Beginner_Programs/ # Core Java basics and syntax practice
-├── Intermediate_Programs/ # OOP, arrays, collections, and exception handling
-├── Advanced_Programs/ # File handling, threading, algorithms, JDBC, etc.
-├── Bonus_Challenges/ # Fun mini-projects and logic exercises
-└── README.md
-
-
-Each folder contains self-contained `.java` files with clear comments and explanations.
-
----
-
 ## ⚡ How to Run Programs
 
 ### 🧰 Requirements
