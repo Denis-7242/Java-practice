@@ -5,6 +5,7 @@ public class swaptwonumbers {
 
         System.out.println("Before swapping: a = " + a + ", b = " + b);
 
+        // Swapping using a temporary variable
         int temp = a;
         a = b;
         b = temp;
