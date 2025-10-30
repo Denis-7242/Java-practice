@@ -83,3 +83,12 @@ public class LogicalOperatorsInteractive {
         input.close();
     }
 }
+
+//💡 What You Learn from This:
+/*How to use &&, ||, and !
+
+How to combine multiple logical operators
+
+How to use user input with the Scanner class
+
+How to test multiple logical paths interactively */
