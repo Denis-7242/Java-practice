@@ -40,4 +40,4 @@ Your support and interest mean a lot. 😊
 
 If you like this project, don’t forget to ⭐ it on GitHub!
 
-— Denis 💻☕
+ Denis 💻☕
