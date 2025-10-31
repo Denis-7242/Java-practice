@@ -5,9 +5,11 @@ The for loop is used when you know how many times you want to repeat a block of 
 It’s best for counting or iterating through things (like numbers or array elements). */
 
 // 💡 Syntax:
+
 /*for (initialization; condition; update) {
     // code to be executed
 }*/
+
 
 public class ForLoopExample {
     public static void main(String[] args) {
@@ -16,6 +18,8 @@ public class ForLoopExample {
         }
     }
 }
+
+
 //💡 What You Learn from This:
 /*How to set up and use a for loop
 How the initialization, condition, and update parts work together 
