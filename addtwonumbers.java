@@ -1,9 +1,8 @@
-public class addtwonumbers {
-    public static void main(String[] args) {
-        int num1 = 5;
-        int num2 = 10;
-        int sum = num1 + num2;
-
-        System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
+public class addtwonumbers{
+    public static void main (String []args){
+        int a=6;
+        int b=4;
+        int sum=a+b;
+        System.out.println("sum:"+sum);
     }
 }
