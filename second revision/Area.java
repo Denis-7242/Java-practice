@@ -6,6 +6,6 @@ public class Area{
 
         System.out.println("length:" +length);
         System.out.println("width:" +width);
-        System.out.println("area:" +area);
+        System.out.println("area of the two numbers:" +area);
     }
 }
